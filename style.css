@@ -5,6 +5,10 @@ h1 {
   color: darkgreen;
   font-family: serif;
   font-style: italic;
+  font-size: 60px;
+}
+h1::first-letter {
+  font-size: 120%;
 }
 .banner {
     padding: 60px;
